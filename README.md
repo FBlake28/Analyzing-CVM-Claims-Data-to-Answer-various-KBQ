@@ -1,7 +1,7 @@
 # Analyzing-CVM-Claims-Data-to-Answer-various-KBQ
 This project was done using synthetic syntegra data. Completed for "BIA 810 - Healthcare Analytics" at Stevens IT. Syntegra datasets were cleaned, merged, and visualized to determine key insights for Sales & Marketing teams pursuing Cardio Vascular Metabolic (CVM) disease-related claims data.
 
-For this assingment, students were provided a rough Python code outline that required editing and extrapolating. The attached file is my finalized version, complete with additional KBQ that were developed and responded to by myself.
+For this assignment, students were provided a rough Python code outline that required editing and extrapolating. The attached file is my finalized version, complete with additional KBQ that were developed and responded to by myself.
 
 ### KBQ are as follows:
 1. Based on the trends for the share of CVM claims as a percentage of total claims over the years 2016 through 2018, what are some business insights you can gather? What are some additional analyses you could do based on these trends?
